@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 , me llamo Monserrath</h1><h3 align="center">Un apasionado desarrollador frontend de India</h3>- 📫 Cómo comunicarse conmigo **monserrathrojas03@gmail.com**
+<h1 align="center">Hola 👋 , me llamo Monserrath</h1><h3 align="center">Me apasiona el desarrollo Front end</h3>- 📫 Cómo comunicarse conmigo **monserrathrojas03@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 
