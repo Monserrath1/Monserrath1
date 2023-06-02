@@ -1,10 +1,10 @@
-<h1 align="center">Hola 👋 , me llamo Monserrath</h1><h3 align="center">Me apasiona el desarrollo Front end</h3>- 📫 Cómo comunicarse conmigo **monserrathrojas03@gmail.com**
+<h1 align="center">Hola 👋 , me llamo Monserrath</h1><h3 align="center">Me apasiona el desarrollo Back end</h3>- 📫 Cómo comunicarse conmigo **monserrathrojas03@gmail.com**
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 
 
-
-<p align="left">
+<
+p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/monserrath-rojas-osorio-60114321b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/monserrath-rojas-osorio-60114321b" height="30" width="40" /></a></p><h3 align="left">Lenguajes y herramientas:</h3><p align="left">
 
 
